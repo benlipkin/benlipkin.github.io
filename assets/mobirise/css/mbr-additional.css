@@ -1079,7 +1079,7 @@ a {
 .cid-s48P1Icc8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #353535;
+  background-color: #232323;
 }
 .cid-s48P1Icc8J .row-links {
   width: 100%;
@@ -2418,6 +2418,9 @@ a {
 .cid-sXDUXbyxbV .mbr-section-subtitle {
   text-align: left;
   color: #232323;
+}
+.cid-sXDUXbyxbV .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-sXDUXbL5sW {
   z-index: 1000;
